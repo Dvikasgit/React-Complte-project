@@ -1,0 +1,48 @@
+#login{
+  width: 400px;
+  height: auto;
+  background-color: rgb(49, 37, 131);
+  text-align: center;
+  /* margin-left: 400px; */
+  border-radius: 15px;
+
+}
+
+.App-content{
+  height: 75%;
+  width: 50%;
+  background-color: rgb(25, 123, 176);
+  text-align: center;
+  margin-left: 450px;
+  
+}
+.Mybox{
+  margin-left: 30%;
+  height: auto;
+  width:  40%;
+}
+h3{
+  text-align: center;
+  font-size:1.8rem;
+}
+#usergender{
+  text-align: center;
+  margin-right:5%;
+}
+#gender{
+  margin-left:2%;
+  margin-right:2%;
+}
+#submitbtn{
+  margin-top: 1%;
+  margin-bottom:1%;
+}
+.form-group{
+  margin-top: 1.5%;
+  margin-bottom:1.5%;
+
+}
+
+
+
+

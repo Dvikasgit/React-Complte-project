@@ -1,0 +1,35 @@
+.container{
+   width: 296px;
+   margin: 100px auto;
+
+    
+}
+#first{
+    background-color: #e2e2e2;
+   padding: 10px;
+   font-size: 35px;
+   width: 272px;
+   height: 45px;
+   text-align: right;
+   border: 2px solid black ;
+}
+.button{
+    background-color: #2189b1;
+    color: white;
+    font-size: 30px;
+    height: 80px;
+    width: 68px;
+    border: 1px solid black;
+    float: left;
+}
+
+#cl{
+    background-color: #2189b1;
+    color: white;
+    font-size: 30px;
+    height: 80px;
+    width: 271px;
+    border: 1px solid black;
+    float: left;
+}
+    
